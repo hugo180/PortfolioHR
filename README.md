@@ -15,5 +15,7 @@ the webpage also adapts to diferts viewports.
 <img width="1440" alt="Screen Shot 2022-01-03 at 4 33 33 PM" src="https://user-images.githubusercontent.com/28612070/147991590-63914c33-0076-46a4-82ac-5dc8eaa0ff23.png">
 <img width="1440" alt="Screen Shot 2022-01-03 at 4 33 29 PM" src="https://user-images.githubusercontent.com/28612070/147991591-2be63d5b-d787-4ec8-9cd5-d03e79a0cb9c.png">
 
+<img width="1440" alt="Screen Shot 2022-01-03 at 4 33 41 PM" src="https://user-images.githubusercontent.com/28612070/147991696-5462e9f6-2ca1-4730-9218-9eb480fcf494.png">
+<img width="284" alt="Screen Shot 2021-12-17 at 11 24 14 PM" src="https://user-images.githubusercontent.com/28612070/147991698-354db9e8-bb79-4404-aed0-5b4dcd8df16a.png">
 
 
