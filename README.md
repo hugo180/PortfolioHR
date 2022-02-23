@@ -7,6 +7,9 @@ my name,
 the webpage also adapts to diferts viewports.
 
 
+## Deploy website: https://hugo180.github.io/PortfolioHR/ 
+
+
 
 
 
