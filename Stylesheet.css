@@ -240,6 +240,39 @@ section .title::after {
 }
 .projects .proj-content .card:hover .box {
   transform: scale(1.15);
+  
+}
+#img1{
+  background-image: url(./images/caloriesChart.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#img1:hover{
+  background-image: url(./images/Calories-app-desc.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#img2{
+  background-image: url(./images/pet-pals.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#img2:hover{
+  background-image: url(./images/pet-pals-desc.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#img3{
+  background-image: url(./images/dayPlanner.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#img3:hover{
+  background-image: url(./images/day-planner-desc.png);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 .projects .proj-content .card img {
   width: 100%;
